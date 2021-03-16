@@ -1,0 +1,17 @@
+.mainContainer {
+  font-family: 'Rubik', sans-serif;
+}
+
+.innerContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rightContainer {
+  margin: 70px auto 0px auto;
+  text-align: center;
+}
+
+.leftContainer img {
+  width: 100%;
+}

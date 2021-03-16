@@ -1,0 +1,9 @@
+.headerContainer {
+  height: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  box-shadow: rgb(54 49 69 / 12%) 0px 4px 5px, rgb(54 49 69 / 12%) 0px 1px 10px,
+    rgb(54 49 69 / 12%) 0px 2px 4px;
+}
